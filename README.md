@@ -10,13 +10,13 @@ anomalies to direct specific testing of your hypothesis.
 
 # ALGORITHM
 ### STEP 1
-
+Create a new folder in jupyter notebook.
 ### STEP 2
-
+Upload the given csv file and open a python kernel.
 ### STEP 3
-
+Write the codes to execute data analysis in the python kernel .
 ### STEP 4
-
+Plot the result in different methods for different Values.
 
 
 # CODE
@@ -81,4 +81,7 @@ sns.heatmap(df.corr(),annot=True)
 sns.heatmap(df_out.corr(),annot=True)
 # OUPUT
 
-[G32.ex3 - Jupyter Notebook (1).pdf](https://github.com/harikrris/Ex-03EDA/files/8469243/G32.ex3.-.Jupyter.Notebook.1.pdf)
+![Output Ex 3](https://user-images.githubusercontent.com/79370364/175798586-e4f9b4f9-9405-40f6-88f1-6aac6695953c.png)
+# RESULT:
+Hence the given dataset is analysed using EDA method.
+
